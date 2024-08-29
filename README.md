@@ -1,4 +1,4 @@
-# Amazon PRODUCTREVIEW SENTIMENT ANALYZER
+# Amazon product review sentiment analyzer
 ![](image_1.jpg)
 
 ## Table of Contents
